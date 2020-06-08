@@ -10,7 +10,9 @@ USAGE:
 
 example:
 
-main.sh 192.168.1.1 28
+./main.sh 192.168.1.1 28
+
+OUTPUT: 
 
 Node with IP: 192.168.1.1 is up.
 
